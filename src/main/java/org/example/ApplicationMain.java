@@ -1,6 +1,6 @@
 package org.example;
 
-import java.awt.*;
+import java.awt.EventQueue;
 
 public class ApplicationMain
 {
